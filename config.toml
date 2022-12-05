@@ -2,7 +2,6 @@ baseURL = 'http://goforaditya.github.io/letstry'
 languageCode = 'en-us'
 title = 'Lets Try'
 theme = 'mainroad'
-mainSections = ["blog", "diary"]
 
 [Author] # Used in authorbox
   name = "@goforaditya"
@@ -17,6 +16,7 @@ mainSections = ["blog", "diary"]
   toc = true # Enable Table of Contents
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   dateformat = "2006-01-02" # Change the format of dates
+  mainSections = ["blog", "diary"]
 
 [Params.sidebar]
   home = "right"
