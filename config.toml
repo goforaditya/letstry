@@ -1,4 +1,35 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://goforaditya.github.io/letstry'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Lets Try'
 theme = 'mainroad'
+
+[Author] # Used in authorbox
+  name = "@goforaditya"
+  bio = "Tech Enthusiast trying to become a techpreneur."
+  avatar = "img/avatar1.png"
+
+[Params]
+  description = "Trying to learn technologies." # Site description. Used in meta description
+  copyright = "@goforaditya" # Footer copyright holder, otherwise will use site title
+  readmore = true # Show "Read more" button in list if true
+  authorbox = true # Show authorbox at bottom of pages if true
+  toc = true # Enable Table of Contents
+  pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+  dateformat = "2006-01-02" # Change the format of dates
+  # mathjax = true # Enable MathJax
+  # mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  # mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+  # googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
+
+[Params.logo]
+  image = "img/letstrylogo.png" # Logo image. Path relative to "static"
+  title = "Learning new tech" # Logo title, otherwise will use site title
+  subtitle = "Documenting the journey" # Logo subtitle
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+
+[Params.widgets.social]
+  github = "goforaditya"
