@@ -26,10 +26,5 @@ theme = 'mainroad'
   title = "Learning new tech" # Logo title, otherwise will use site title
   subtitle = "Documenting the journey" # Logo subtitle
 
-[Params.sidebar]
-  home = "right"
-  list = "right"
-  single = "right"
-
 [Params.widgets.social]
   github = "goforaditya"
