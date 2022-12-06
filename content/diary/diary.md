@@ -2,6 +2,7 @@
 title: "Diary"
 date: 2022-12-05T17:27:26+05:30
 draft: false
+menu: main
 ---
 #### 06 Dec 2022
 
