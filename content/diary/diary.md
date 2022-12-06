@@ -4,17 +4,23 @@ date: 2022-12-05T17:27:26+05:30
 draft: false
 ---
 #### 06 Dec 2022
-
+PROGRESS
+- Activate menu in letstry
+- deployed learn-machine [https://goforaditya.github.io/learn-machine/] new name for know-platform.
 
 
 PLAN
 - Need to learn more Hugo
-- Start with know-platform
+- Start with know-platform []
 
 REFS
 
-- ![Menus on Hugo](https://gohugo.io/content-management/menus/)
-- ![Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+- [Menus on Hugo](https://gohugo.io/content-management/menus/)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- (https://github.com/marketplace/actions/github-pages-action#%EF%B8%8F-static-site-generators-with-nodejs)
+- (https://github.com/marketplace/actions/hugo-setup#%EF%B8%8F-use-hugo-extended)
+- [Github Acitons is free*](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions)
+- [Repository templates](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)
 
 #### 05 Dec 2022
 
