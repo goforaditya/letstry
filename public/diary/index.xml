@@ -9,11 +9,12 @@
     <lastBuildDate>Mon, 05 Dec 2022 17:27:26 +0530</lastBuildDate><atom:link href="http://goforaditya.github.io/letstry/diary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diary</title>
-      <link>http://goforaditya.github.io/letstry/diary/05-dec-2022/</link>
+      <link>http://goforaditya.github.io/letstry/diary/diary/</link>
       <pubDate>Mon, 05 Dec 2022 17:27:26 +0530</pubDate>
       
-      <guid>http://goforaditya.github.io/letstry/diary/05-dec-2022/</guid>
-      <description>05 Dec 2022 Made HUGO site for personal blog. Posted project ideas on Trello board. Create Github action for deploying site. Need to do:
+      <guid>http://goforaditya.github.io/letstry/diary/diary/</guid>
+      <description>06 Dec 2022 PLAN
+Need to learn more Hugo Start with know-platform 05 Dec 2022 Made HUGO site for personal blog. Posted project ideas on Trello board. Create Github action for deploying site. Need to do:
 Make knowledgebase using a documentation template !(https://www.docsy.dev/docs/get-started/) Docsy is a good theme created by google but requires some npm stuff need to figure out. First know doc can be just a list of all the links needed to create the blog and all the issues faced Need to create a learning plan.</description>
     </item>
     
