@@ -42,5 +42,5 @@ theme = 'mainroad'
 [[menu.main]]
   identifier = 'diary'
   name = 'diary'
-  url = '/diary/'
+  url = '/diary/diary/'
   weight = -110
