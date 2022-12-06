@@ -11,8 +11,8 @@ PLAN
 
 REFS
 
-- !(Menus on Hugo)[https://gohugo.io/content-management/menus/]
-- !(Markdown Cheatsheet)[https://www.markdownguide.org/cheat-sheet/]
+- ![Menus on Hugo](https://gohugo.io/content-management/menus/)
+- ![Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
 #### 05 Dec 2022
 
