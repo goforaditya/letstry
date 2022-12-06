@@ -10,6 +10,7 @@ PROGRESS
 
 
 PLAN
+- first book is on Hugo and Docsy cookbook.
 - Need to learn more Hugo
 - Start with know-platform []
 
