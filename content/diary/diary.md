@@ -5,6 +5,8 @@ draft: false
 ---
 #### 06 Dec 2022
 
+
+
 PLAN
 - Need to learn more Hugo
 - Start with know-platform
