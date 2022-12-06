@@ -23,16 +23,16 @@ Need to do:
 - Start making notes in the markdown format.
 
 Today's links
-https://github.com/databricks-academy/data-engineering-with-databricks-english
-https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
-https://www.youtube.com/watch?v=LIFvgrRxdt4
-https://themes.gohugo.io/themes/docsy/
-https://gohugo.io/content-management/organization/
-https://mainroad-demo.netlify.app/docs/getting-started/
-https://gohugo.io/getting-started/quick-start/
-https://github.com/vimux/mainroad#configtoml-example
-http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf
-https://www.canva.com/search/templates?q=logo
+- https://github.com/databricks-academy/data-engineering-with-databricks-english
+- https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+- https://www.youtube.com/watch?v=LIFvgrRxdt4
+- https://themes.gohugo.io/themes/docsy/
+- https://gohugo.io/content-management/organization/
+- https://mainroad-demo.netlify.app/docs/getting-started/
+- https://gohugo.io/getting-started/quick-start/
+- https://github.com/vimux/mainroad#configtoml-example
+- http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf
+- https://www.canva.com/search/templates?q=logo
 
 
 
