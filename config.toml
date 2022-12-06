@@ -16,7 +16,7 @@ menu = 'main'
   schema = true # Enable Schema
   readmore = true # Show "Read more" button in list if true
   authorbox = true # Show authorbox at bottom of pages if true
-  mainSections = ["blog", "diary"]
+  mainSections = ["blog"]
   toc = true # Enable Table of Contents
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   dateformat = "2006-01-02" # Change the format of dates
@@ -34,3 +34,17 @@ menu = 'main'
 
 [Params.widgets.social]
   github = "goforaditya"
+
+[menu]
+[[menu.main]]
+  name = 'blog'
+  post = "<span class='alert'>New!</span>"
+  pre = "<i class='fa fa-road'></i>"
+  url = '/blog/'
+  weight = -100
+[[menu.main]]
+  identifier = 'diary'
+  name = 'diary'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/diary/'
+  weight = -110
