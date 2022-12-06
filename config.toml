@@ -2,7 +2,6 @@ baseURL = 'http://goforaditya.github.io/letstry'
 languageCode = 'en-us'
 title = 'Lets Try'
 theme = 'mainroad'
-menu = 'main'
 
 [Author] # Used in authorbox
   name = "@goforaditya"
