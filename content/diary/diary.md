@@ -10,7 +10,7 @@ PLAN
 - First doc
 
 REFs
-- ![LaTeX Ref](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
+- [LaTeX Ref](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 
 #### 06 Dec 2022
 PROGRESS
