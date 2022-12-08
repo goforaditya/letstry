@@ -7,7 +7,10 @@ draft: false
 #### 08 Dec 2022
 PLAN
 - Get familiar with docsy
-- First doc 
+- First doc
+
+REFs
+- ![LaTeX Ref](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 
 #### 06 Dec 2022
 PROGRESS
