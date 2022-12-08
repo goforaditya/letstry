@@ -6,7 +6,7 @@ draft: false
 
 # What is Github ?
 
-{{ youtube id="pBy1zgt0XPc" }}
+{{< youtube id="pBy1zgt0XPc" >}}
 
 
 Open source is a term that originally referred to open source software (OSS). Open source software is code that is designed to be publicly accessible—anyone can see, modify, and distribute the code as they see fit.
