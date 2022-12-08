@@ -11,7 +11,7 @@ PLAN
 
 REFs
 - [LaTeX Ref](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
-
+- [Docsy Blocks](https://www.docsy.dev/docs/adding-content/shortcodes/)
 #### 06 Dec 2022
 PROGRESS
 - Activate menu in letstry
