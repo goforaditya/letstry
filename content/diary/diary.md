@@ -3,6 +3,12 @@ title: "Diary"
 date: 2022-12-05T17:27:26+05:30
 draft: false
 ---
+
+#### 08 Dec 2022
+PLAN
+- Get familiar with docsy
+- First doc 
+
 #### 06 Dec 2022
 PROGRESS
 - Activate menu in letstry
