@@ -19,7 +19,7 @@ INTERESTING LINKS
 IDEAS
 - Use GridBeam and robotics to build DIY home
 - Build a webapp to analyze ESG data for trading
-- Combine farmonaut and gridbeam
+- Combine farmonaut and gridbeam fully automated urban farming.
 
 #### 08 Dec 2022
 PLAN
