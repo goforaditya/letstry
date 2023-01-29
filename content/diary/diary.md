@@ -13,10 +13,13 @@ INTERESTING LINKS
 - [DIY Wood/Steel block to build anything GridBeam](https://gridbeam.xyz/)
 - [CredQuant ESG analyze and stock trading](https://www.credquant.com/)
 - [Indian Government's AI website](https://indiaai.gov.in/startup)
+- (https://farmonaut.com/)
+- [Chip Design](https://www.altium.com/altium-designer#altium-designer-overview)
 
 IDEAS
 - Use GridBeam and robotics to build DIY home
 - Build a webapp to analyze ESG data for trading
+- Combine farmonaut and gridbeam
 
 #### 08 Dec 2022
 PLAN
