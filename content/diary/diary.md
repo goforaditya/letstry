@@ -12,6 +12,7 @@ INTERESTING LINKS
 - [Statisticl Rethinking Book](https://xcelab.net/rm/statistical-rethinking/)
 - [DIY Wood/Steel block to build anything GridBeam](https://gridbeam.xyz/)
 - [CredQuant ESG analyze and stock trading](https://www.credquant.com/)
+- [Indian Government's AI website](https://indiaai.gov.in/startup)
 
 IDEAS
 - Use GridBeam and robotics to build DIY home
