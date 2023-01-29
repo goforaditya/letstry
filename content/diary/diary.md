@@ -4,6 +4,19 @@ date: 2022-12-05T17:27:26+05:30
 draft: false
 ---
 
+#### 29 Jan 2022
+PLAN
+- Started AWS ML CERT Udemy course
+
+INTERESTING LINKS
+- [Statisticl Rethinking Book](https://xcelab.net/rm/statistical-rethinking/)
+- [DIY Wood/Steel block to build anything GridBeam](https://gridbeam.xyz/)
+- [CredQuant ESG analyze and stock trading](https://www.credquant.com/)
+
+IDEAS
+- Use GridBeam and robotics to build DIY home
+- Build a webapp to analyze ESG data for trading
+
 #### 08 Dec 2022
 PLAN
 - Get familiar with docsy
